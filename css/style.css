@@ -159,7 +159,7 @@ body{
 .sec-answer{
     height:10vh;
     width:80%;
-    left:10%;
+    margin-left:10%;
     display: grid;
     justify-items: center;
     align-items: center;
