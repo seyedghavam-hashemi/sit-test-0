@@ -173,19 +173,45 @@ body{
 
 }
 
+.correct-false{
+    height:10vh;
+    width:100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    margin-top: 12vh;
+}
+
+
+
+
 
 #false_answer{
     display:none;
-    margin-top: 20px;
+    margin-top:0px;
     /*box-shadow: 0 0 50px 15px #48abe0;*/
+    
 
 }
 #correct_answer{
     display:none;
-    margin-top: 20px;
+    margin-top: 00px;
     /*box-shadow: 0 0 50px 15px #48abe0;*/
 
 }
+/*section cheat*/
+.sec-cheat{
+    margin-top: 40vh;
+    height:30vh;
+    width:100%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
 
+}
 
-  }
+  } 
+  
+
+   
+
